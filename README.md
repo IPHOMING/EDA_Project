@@ -1,4 +1,4 @@
-# Analysis of Average Annual Salaries of Graduates in Hong Kong
+# <strong>Analysis of Average Annual Salaries of Graduates in Hong Kong</strong>
 This notebook contains an analysis of the average annual salaries of graduates in Hong Kong based on the Average Annual Salaries dataset from the DATA.GOV.HK website.
 
 ### Introduction
