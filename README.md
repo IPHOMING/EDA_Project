@@ -5,7 +5,8 @@ This notebook contains an analysis of the average annual salaries of graduates i
 The purpose of this analysis is to explore the trends and patterns in the average annual salaries of graduates of full-time UGC-funded programs in Hong Kong. The dataset provides information on the average salaries by level of study and broad academic program category.
 
 ### Data Source
-The data used in this analysis is sourced from the Average Annual Salaries of Graduates dataset provided by DATA.GOV.HK.
+The data used in this analysis is sourced from the [Average Annual Salaries of Graduates](https://data.gov.hk/en-data/dataset/hk-ugc-ugc-average-annual-salaries-graduates) dataset provided by DATA.GOV.HK.
+
 
 ### Steps Taken
 <ol>
